@@ -4,7 +4,7 @@ CCInfo (Credit Card Information). Get information from credit card number.
 ```bash
 $ pkg install git
 $ pkg install python2
-$ git clone https://github.com/ITermSec/CCInfo.git
+$ git clone https://github.com/ahmadmazulpahwan7/CCInfo
 $ cd CCInfo
 $ python2 install.py
 ```
